@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "showcase-astro": "pnpm --filter showcase-astro",
     "showcase": "pnpm --filter showcase",
     "components": "pnpm --filter components"
   },
